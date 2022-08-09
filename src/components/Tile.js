@@ -9,7 +9,7 @@ function Tile(props)
     React.useEffect(() => {
 
         async function grabAPI() {
-            const res = await fetch(`https://api.weatherapi.com/v1/current.json?key=05044c035374740864160653220408&q=${props.location}&aqi=no`)
+            const res = await fetch(`https://api.weatherapi.com/v1/current.json?key=095044c035374740864160653220408&q=${props.location}&aqi=no`)
 
             if(!res.ok){   
                 await grabAPIBackup()
