@@ -8,6 +8,12 @@ function App() {
 
   return(
     <div className='container'>
+      
+      <form>
+        <input name='location' type='text' disabled></input>
+        <label>Location:</label>
+      </form>
+
       <Tile location="Ashford" />
       <Tile location="Folkestone" />
       <Tile location="London" />
