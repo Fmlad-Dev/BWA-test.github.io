@@ -1,0 +1,41 @@
+{
+    "location": {
+        "name": "Ashford (?)",
+        "region": "Kent",
+        "country": "United Kingdom",
+        "lat": 51.15,
+        "lon": 0.87,
+        "tz_id": "Europe/London",
+        "localtime_epoch": 1659967337,
+        "localtime": "2022-08-08 15:02"
+    },
+    "current": {
+        "last_updated_epoch": 1659967200,
+        "last_updated": "2022-08-08 15:00",
+        "temp_c": 23,
+        "temp_f": 73.4,
+        "is_day": 1,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+            "code": 1003
+        },
+        "wind_mph": 17.4,
+        "wind_kph": 28.1,
+        "wind_degree": 100,
+        "wind_dir": "E",
+        "pressure_mb": 1027,
+        "pressure_in": 30.33,
+        "precip_mm": 0,
+        "precip_in": 0,
+        "humidity": 69,
+        "cloud": 25,
+        "feelslike_c": 24.5,
+        "feelslike_f": 76,
+        "vis_km": 10,
+        "vis_miles": 6,
+        "uv": 7,
+        "gust_mph": 13.9,
+        "gust_kph": 22.3
+    }
+}

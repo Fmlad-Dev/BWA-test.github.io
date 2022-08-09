@@ -1,0 +1,41 @@
+{
+    "location": {
+        "name": "London (?)",
+        "region": "City of London, Greater London",
+        "country": "United Kingdom",
+        "lat": 51.52,
+        "lon": -0.11,
+        "tz_id": "Europe/London",
+        "localtime_epoch": 1659967390,
+        "localtime": "2022-08-08 15:03"
+    },
+    "current": {
+        "last_updated_epoch": 1659967200,
+        "last_updated": "2022-08-08 15:00",
+        "temp_c": 28,
+        "temp_f": 82.4,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 2.2,
+        "wind_kph": 3.6,
+        "wind_degree": 62,
+        "wind_dir": "ENE",
+        "pressure_mb": 1026,
+        "pressure_in": 30.3,
+        "precip_mm": 0,
+        "precip_in": 0,
+        "humidity": 37,
+        "cloud": 0,
+        "feelslike_c": 26.9,
+        "feelslike_f": 80.5,
+        "vis_km": 10,
+        "vis_miles": 6,
+        "uv": 7,
+        "gust_mph": 3.4,
+        "gust_kph": 5.4
+    }
+}
